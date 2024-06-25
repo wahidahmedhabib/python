@@ -6,3 +6,11 @@ def abc(d):
 
 
 abc("pakistan")
+
+
+
+def abcddd(d):
+    print(d)
+
+
+abcddd("just checckinggg.............")
